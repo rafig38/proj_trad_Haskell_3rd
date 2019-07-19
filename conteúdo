@@ -68,6 +68,10 @@ Prefácio
 	Exemplo: Processando texto
 8. Executando um jogo: I/O (Entrada/Saída) em Haskell
 	8.1 Pedra - Papel - Tesoura: estratégia
-	8.2 
+	8.2 Porque a Entrada/Saída (I/O) é um problema?
+	8.3 A Entrada/Saída básica
+	8.4 A notação "do"
+	8.5 "Loops" e recursão
+	8.6 Pedra - Papel - Tesoura: Executando o jogo
 	
 	
