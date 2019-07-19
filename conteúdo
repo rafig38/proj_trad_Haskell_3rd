@@ -26,3 +26,48 @@ Prefácio
 	2.5 Modulos
 	2.6 Um segundo exemplo: figuras
 	2.7 Erros e mensagens de erros
+3. Tipos básicos e definições
+	3.1 Os boleanos: Bool
+	3.2 Os inteiros: integer e Int
+	3.3 Sobrecarregando
+	3.4 Guardas
+	3.5 Caracteres e Strings
+	3.6 Números de ponto flutuante:Float
+	3.7 Sintaxe
+4. Desenhando e escrevendo programas
+	4.1 Por onde eu começo? Desenhando um programa em Haskell
+	4.2 Resolvendo problemas em passos: definições locais
+	4.3 Definindo tipos para nós mesmos: tipos enumerados
+	4.4 Recursão
+	4.5 Recursão primitiva na prática
+	4.6 Exercícios extendidos: figuras
+	4.7 Formas gerais de recursão
+	4.8 testando programas
+5. Tipos de dados, tuplas e listas
+	5.1 Introduzindo tuplas e listas
+	5.2 Tipos tuplas
+	5.3 Introduzindo tipos algébricos
+	5.4 Nossas aproximações para listas
+	5.5 Listas em Haskell
+	5.6 Listas por compreensão
+	5.7 Uma base de dados de uma biblioteca
+6. Programando com listas
+	6.1 Funções genéricas: Polimorfismo
+	6.2 Listas de funções Haskell no "Prelude"
+	6.3 Encontrando seus próprios caminhos em meio as bibliotecas Haskell
+	6.4 A figura exemplo: implementação
+	6.5 Exercício extendido: implementeção alternativa de figuras
+	6.6 Exercício extendido: figuras posicionadas
+	6.7 Exercício extendido: cartões e cartões de jogos
+7. Definindo funções sobre listas
+	7.1 Revisando casamento de padrões
+	7.2 Listas e listas padronizadas
+	7.3 Recursão primitiva sobre listas
+	7.4 Encontrando a definição de recursão primitiva
+	7.5 Recursão geral sobre listas
+	Exemplo: Processando texto
+8. Executando um jogo: I/O (Entrada/Saída) em Haskell
+	8.1 Pedra - Papel - Tesoura: estratégia
+	8.2 
+	
+	
