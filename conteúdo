@@ -1,0 +1,28 @@
+Conteúdos
+
+Prefácio
+
+1. Introdução a programação funcional
+	1.1 Computadores e modelagem
+	1.2 O que é uma função
+	1.3 Figuras e funções
+	1.4 Tipos
+	1.5 A linguagem de programação Haskell
+	1.6 Expressões e avaliações
+	1.7 Definições
+	1.8 Definição de funções
+	1.9 Tipos e programação funcional
+	1.10 Cálculos e avaliações
+	1.11 A essência da programação Haskell
+	1.12 Domínio - específico da linguagem
+	1.13 Dois modelos de figuras
+	1.14 Testes, propriedades e provas
+
+2. Iniciando com Haskell e GHCI
+	2.1 Um primeiro programa em Haskell
+	2.2 Usando Haskell na prática
+	2.3 Usando o GHCI
+	2.4 O Prelude padrão e as bibliotecas Haskell
+	2.5 Modulos
+	2.6 Um segundo exemplo: figuras
+	2.7 Erros e mensagens de erros
