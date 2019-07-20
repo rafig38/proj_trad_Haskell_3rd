@@ -73,5 +73,43 @@ Prefácio
 	8.4 A notação "do"
 	8.5 "Loops" e recursão
 	8.6 Pedra - Papel - Tesoura: Executando o jogo
-	
+9. Racionalizando programas
+        9.1 Entendendo definições
+        9.2 Testando e provando
+        9.3 Expressões definidas, finitas e terminações
+        9.4 Um tanto lógico
+        9.5 Indução
+        9.6 Mais exemplos de provas por indução
+        9.7 Generalizando a prova desejada
+10. Generalização: Padrões de computação
+        10.1 Padrões de computação sobre listas
+        10.2 Funções de alta ordem: funções como argumento
+        10.3 Funções "foldr" e recursão primitiva
+        10.4 Generalizando: funções "split" sobre listas
+        10.5 Revisão de estudo de caso
+11. Funções de mais alta ordem
+        11.1 Operadores: composição de função e aplicação
+        11.2 Expressões para funções: abstração lambda
+        11.3 Aplicação parcial
+        11.4
+        11.5 Definindo funções de mais alta ordem
+        11.6 Verificação de generalização de funções
+12. Desenvolvendo programas de mais alta ordem
+        12.1 Revisando a figura exemplo
+        12.2 Funções de dados: combinadores estratégicos
+        12.3 Funções de dados: reconhecendo expressões regulares
+        12.4 Estudo de caso: funções de dados
+        12.5 Exemplo: criando um index
+        12.6 Desenvolvimento na prática
+        12.7 Entendendo programas
+13. Sobrecargas, classes de tipos e tipos de checagem
+        13.1 Porque sobrecarga?
+        13.2 Introduzindo classes
+        13.3 Assinaturas e instâncias
+        13.4 Um "tour"nas construções de classes Haskell
+        13.5 Tipos de checagem e inferência de tipos: uma visão generalizada
+        13.6 Tipos de checagem monomórficas
+        13.7 Tipos de checagem polimórficas
+        13.8 Tipos de checagem e classes 
+
 	
