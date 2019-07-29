@@ -91,7 +91,7 @@ Prefácio
         11.1 Operadores: composição de função e aplicação
         11.2 Expressões para funções: abstração lambda
         11.3 Aplicação parcial
-        11.4
+        11.4 Olhando sob o capô: Funções curry
         11.5 Definindo funções de mais alta ordem
         11.6 Verificação de generalização de funções
 12. Desenvolvendo programas de mais alta ordem
@@ -110,6 +110,22 @@ Prefácio
         13.5 Tipos de checagem e inferência de tipos: uma visão generalizada
         13.6 Tipos de checagem monomórficas
         13.7 Tipos de checagem polimórficas
-        13.8 Tipos de checagem e classes 
+        13.8 Tipos de checagem e classes
+14. Tipos algébricos
+	14.1 Revendo definições de tipos algébricos
+	14.2 Tipos algébricos recursivos
+	14.3 Tipos algébricos polimórficos
+	14.4 Modelando erros de programas
+	14.5 Desenhando com tipos de dados algébricos
+	14.6 Tipos algébricos e tipos classes
+	14.7 Raciocinando sobre tipos algébricos
+15. Estudo de caso: códigos Huffman
+	15.1 Modelos em Haskell
+	15.2 Desenho modular
+	15.3 Codificando e decodificando
+	15.4 Implementação - I
+	15.5 Construindo a árvore de Huffman
+	15.6 Desenho
+	15.7 Implementação - II
 
 	
