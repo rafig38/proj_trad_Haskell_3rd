@@ -127,5 +127,59 @@ Prefácio
 	15.5 Construindo a árvore de Huffman
 	15.6 Desenho
 	15.7 Implementação - II
+16. Tipo de dados abstrato
+	16.1 Tipo de representação
+	16.2 O mecanismo de tipo de dados abstrato em Haskell
+	16.3 Filas
+	16.4 Desenho
+	16.5 Simulação
+	16.6 Implementação e simulação
+	16.7 Pequisando árvores
+	16.8 Conjuntos
+	16.9 Relações e gráficos
+	16.10 Comentários
+17. Programação preguiçosa
+	17.1 Evolução preguiçosa
+	17.2 Regras de cálculo e evolução preguiçosa
+	17.3 Revendo compreensão de listas
+	17.4 Programação de dados direcionados
+	17.5 Estudo de caso: expressões de análise
+	17.6 Limite infinito
+	17.7 Por que listas infinitas
+	17.8 Estudo de caso: simulação
+	17.9 Revendo provas
+18. Programação com Monads
+	18.1 Programação I/O - input/output - Entrada/Saída
+	18.2 Mais I/O
+	18.3 A calculadora
+	18.4 Revendo a notação "do"
+	18.5 Monads: Linguagem para programação funcional
+	18.6 Exemplos: Computação monádica sobre árvores
+19. Domínio - Linguagem específica -> DSLs
+	19.1 Linguagem de programação em qualquer lugar
+	19.2 Por que "DSLs" em Haskell ?
+	19.3 Embarques rasos e profundos
+	19.4 Uma "DSL" para expressões regulares
+	19.5 "DSLs" monáqdicas
+	19.6 "DSLs" para computação: generalizando dados com QuickChecks
+	19.7 Indo mais longe
+20. Comportamento do tempo e espaço
+	20.1 Funções complexas
+	20.2 A complexidade de cálculo
+	20.3 Implementação de conjuntos
+	20.4 Comportamento espacial
+	20.5 Revendo "Folding"
+	20.6 Evitando reprocessamento: memorização
+21. Conclusão
+
+Apêndices
+A. Programação Funcional, Imperativa e Orientada a Objetos
+B. Glossário
+C. Operadores Haskell
+D. Práticas em Haskell
+E. "errors" no GHCi
+F. Idéias de projetos
+
+Bibliografia
 
 	
