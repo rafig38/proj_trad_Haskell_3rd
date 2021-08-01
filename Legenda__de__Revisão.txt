@@ -1,0 +1,9 @@
+
+Marcações amarelas: 
+Coisas que precisam ser revidas na concordancia com o texto juntamente com o sentido da tradução.
+
+
+Palavras sem tradução:
+Algumas palavras em negrito, pra o texto não perder sua essência 
+nem o sentido não estao traduzidas, como nomes, palavras usuais que mesmo 
+no inglês elas tem um sentido pra comunidade de programação.
